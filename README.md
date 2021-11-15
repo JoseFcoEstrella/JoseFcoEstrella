@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: josefranciscoestrella@gmail.com
 - 🌱 I'm specifically focused on deep learning ReactJS and Nodejs.
 - 💬 Ask me about ReactJS, Node.js, Python, Web Developement
-- ⚡ Fun fact: I love play videogames and learning about programming, close friends call me Dante.
+- ⚡ Fun fact: I love playing videogames and learning about programming, friends call me Dante.
 
 # I was working with:
 - HTML5
